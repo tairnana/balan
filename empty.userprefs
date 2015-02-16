@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_lib/tair.unlit.shader">
+    <Files>
+      <File FileName="Assets/_script/GenerateWorld.cs" Line="44" Column="33" />
+      <File FileName="Assets/_script/TestGUI.cs" Line="14" Column="83" />
+      <File FileName="Assets/_lib/tair.unlit.shader" Line="3" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

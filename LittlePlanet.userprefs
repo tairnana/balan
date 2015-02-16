@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_script/lp/TairInput.cs">
+    <Files>
+      <File FileName="Assets/_script/lp/LpLittlePlanet.cs" Line="24" Column="25" />
+      <File FileName="Assets/_worldfragment/LpWorldFragment.cs" Line="10" Column="3" />
+      <File FileName="Assets/_script/lp/GenerateWorld.cs" Line="16" Column="49" />
+      <File FileName="Assets/_script/lp/TairInput.cs" Line="34" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

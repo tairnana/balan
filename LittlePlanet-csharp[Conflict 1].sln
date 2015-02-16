@@ -1,0 +1,73 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BB1C9AF6-8ED6-B044-689F-167860ED06B7}") = "LittlePlanet", "Assembly-CSharp-firstpass-vs.csproj", "{8D041DA3-F468-5B20-68E9-C2B6B3B7434B}"
+EndProject
+Project("{BB1C9AF6-8ED6-B044-689F-167860ED06B7}") = "LittlePlanet", "Assembly-CSharp-vs.csproj", "{11342BD5-7D8B-496F-131F-E4EB892B8F14}"
+EndProject
+Project("{BB1C9AF6-8ED6-B044-689F-167860ED06B7}") = "LittlePlanet", "Assembly-CSharp-Editor-vs.csproj", "{E22E6DC0-185B-BB70-149D-55B4C63D8255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D041DA3-F468-5B20-68E9-C2B6B3B7434B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D041DA3-F468-5B20-68E9-C2B6B3B7434B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D041DA3-F468-5B20-68E9-C2B6B3B7434B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D041DA3-F468-5B20-68E9-C2B6B3B7434B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11342BD5-7D8B-496F-131F-E4EB892B8F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11342BD5-7D8B-496F-131F-E4EB892B8F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11342BD5-7D8B-496F-131F-E4EB892B8F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11342BD5-7D8B-496F-131F-E4EB892B8F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E22E6DC0-185B-BB70-149D-55B4C63D8255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22E6DC0-185B-BB70-149D-55B4C63D8255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22E6DC0-185B-BB70-149D-55B4C63D8255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22E6DC0-185B-BB70-149D-55B4C63D8255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchBody = True
+		$2.AnonymousMethodBraceStyle = NextLine
+		$2.PropertyBraceStyle = NextLine
+		$2.PropertyGetBraceStyle = NextLine
+		$2.PropertySetBraceStyle = NextLine
+		$2.EventBraceStyle = NextLine
+		$2.EventAddBraceStyle = NextLine
+		$2.EventRemoveBraceStyle = NextLine
+		$2.StatementBraceStyle = NextLine
+		$2.ArrayInitializerBraceStyle = NextLine
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.NewParentheses = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+		$0.DotNetNamingPolicy = $4
+		$4.DirectoryNamespaceAssociation = None
+		$4.ResourceNamePolicy = FileFormatDefault
+		$0.StandardHeader = $5
+		$5.Text = 
+		$5.IncludeInNewFiles = True
+	EndGlobalSection
+
+EndGlobal
